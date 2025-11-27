@@ -1,51 +1,49 @@
 # Affan Khulafa Hidayah | Software Engineer
 
-Welcome to the official GitHub Pages repository for **Affan Khulafa Hidayah**. I am a passionate **Software Engineer** specializing in **Backend Development**, **Linux Systems**, and **JavaScript**.
+This is the official GitHub Pages repository for **Affan Khulafa Hidayah**, a Software Engineer specializing in backend development, Linux systems, and JavaScript. I architect and implement efficient, scalable, and maintainable software with a strong emphasis on reliability and performance.
 
-## 🚀 About Me
+## About Me
 
-I build robust and scalable applications with a focus on performance and clean code. My expertise lies in server-side logic, system administration, and modern web technologies.
+I focus on building backend services, distributed systems, and infrastructure‐oriented applications. My strengths include solving technical challenges, optimizing performance, and writing clean, production-grade code.
 
-- **Role**: Software Engineer & Backend Developer
-- **Focus**: Backend, Linux, JavaScript, Node.js
-- **Location**: Indonesia
+### Professional Summary
+- Software Engineer and Backend Developer  
+- Expertise in Linux system administration and backend architecture  
+- Strong foundation in JavaScript and Node.js  
+- Based in Indonesia  
 
-## 🛠️ Tech Stack
+## Technical Skills
 
-- **Languages**: JavaScript, Python, Bash
-- **Backend**: Node.js, Express
-- **Systems**: Linux (Debian/Ubuntu), Git
-- **Tools**: Docker, Nginx
+**Languages:** JavaScript, Python, Bash  
+**Backend:** Node.js, Express  
+**Systems:** Linux (Debian, Ubuntu), Git  
+**Tools & Platforms:** Docker, Nginx, Shell Scripting  
 
-## 🌟 Featured Projects
+## Featured Repositories
 
-Here are some of my key repositories and projects:
+### afkhidbot-tele  
+Repository: https://github.com/akhfhid/afkhidbot-tele  
+A flexible and efficient Telegram bot for automated workflows and user management.
 
-### [afkhidbot-tele](https://github.com/akhfhid/afkhidbot-tele)
+### afkhid-esm  
+Repository: https://github.com/akhfhid/afkhid-esm  
+A set of modern ECMAScript utilities designed for cleaner, modular JavaScript development.
 
-A powerful and versatile **Telegram Bot** designed to automate tasks and enhance group management.
+### akhfhid-discord  
+Repository: https://github.com/akhfhid/akhfhid-discord  
+A structured and modular Discord bot built to support automation and scalable bot features.
 
-### [afkhid-esm](https://github.com/akhfhid/afkhid-esm)
+### akhfhid-project  
+Repository: https://github.com/akhfhid/akhfhid-project  
+A collection of experimental implementations and development concepts.
 
-A collection of modern **ESM (ECMAScript Modules)** utilities to streamline JavaScript development.
+## Additional Links and Contact
 
-### [akhfhid-discord](https://github.com/akhfhid/akhfhid-discord)
-
-A modular and extensible **Discord Bot** built for community engagement and server administration.
-
-### [akhfhid-project](https://github.com/akhfhid/akhfhid-project)
-
-My central project repository showcasing various experiments and implementations.
-
-## 🔗 Connect with Me
-
-- **Portfolio**: [akhfhid.my.id](https://akhfhid.my.id)
-- **Discord Project**: [discord.akhfhid.my.id](https://discord.akhfhid.my.id)
-- **GitHub**: [@akhfhid](https://github.com/akhfhid)
-- **Email**: [neoaffan2@gmail.com](mailto:neoaffan2@gmail.com)
+**Portfolio:** https://akhfhid.my.id  
+**Discord Project:** https://discord.akhfhid.my.id  
+**GitHub Profile:** https://github.com/akhfhid  
+**Email:** neoaffan2@gmail.com  
 
 ---
 
-<p align="center">
-  <sub>&copy; 2025 Affan Khulafa Hidayah. All rights reserved.</sub>
-</p>
+© 2025 Affan Khulafa Hidayah. All rights reserved.
